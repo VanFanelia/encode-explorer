@@ -13,11 +13,14 @@ it is kept simple and functional. Free for everyone.
 * Optional password protection
 * Interface for mobile devices
 
+Modification by Van
+----------------------------------
+Some source code changes to make this project maintainable.
 
 Manual
 ----------------------------------
-You have to upload index.php into your server.
-If you open index.php you can edit several settings.
+You have to upload index.php and folder src to your server.
+If you open src/config.php you can edit several settings.
 You should make sure the edited file will be saved in UTF-8!
 
 
