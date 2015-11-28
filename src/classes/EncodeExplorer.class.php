@@ -352,7 +352,6 @@ class EncodeExplorer
 <head>
 <meta name="viewport" content="width=device-width" />
 <meta http-equiv="Content-Type" content="text/html; charset=<?php print $this->getConfig('charset'); ?>">
-<?php css(); ?>
 <link rel="stylesheet" href="src/css/style.css">
 <!-- <meta charset="<?php print $this->getConfig('charset'); ?>" /> -->
 <?php
